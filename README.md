@@ -344,7 +344,6 @@ const developer = {
 | **Node.js Bootcamp** | Letsupgrade | Apr 2025 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 | **JavaScript Bootcamp** | Letsupgrade | Mar 2025 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **HTML & CSS Bootcamp** | Letsupgrade | Mar 2025 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-
 | **JavaScript for Beginners** | Simplilearn | Dec 2024 | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 </div>
@@ -417,19 +416,9 @@ graph TB
 </tr>
 </table>
 
-<br/>
 
-### 📊 **Current Learning Status**
 
-<div>
 
-![Progress](https://img.shields.io/badge/React.js-95%25-58A6FF?style=for-the-badge&logo=react&labelColor=161B22)
-![Progress](https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=node.js&labelColor=161B22)
-![Progress](https://img.shields.io/badge/MongoDB-85%25-4EA94B?style=for-the-badge&logo=mongodb&labelColor=161B22)
-![Progress](https://img.shields.io/badge/TypeScript-60%25-3178C6?style=for-the-badge&logo=typescript&labelColor=161B22)
-![Progress](https://img.shields.io/badge/AWS-40%25-FF9900?style=for-the-badge&logo=amazonaws&labelColor=161B22)
-
-</div>
 
 </div>
 
